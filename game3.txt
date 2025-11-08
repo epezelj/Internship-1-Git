@@ -1,5 +1,5 @@
-Tina ima 0 pobjeda i 1 poraza!
-Ema ima 1 pobjeda i 0 poraza!
+Tina ima 1 pobjeda i 1 poraza!
+Ema ima 1 pobjeda i 1 poraza!
 
 . . x
 . O x
